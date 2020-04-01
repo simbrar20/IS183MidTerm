@@ -1,0 +1,51 @@
+git clone <url from github>
+
+git clone <url from github> <desired folder name>
+
+git branch 
+
+git branch -a 
+
+git branch -r 
+
+git remote show origin
+
+git remote remove origin
+
+git remote rename origin <new name>
+
+git remote add origin <url from github>
+
+git add .
+
+git commit -m "some message"
+
+git push
+
+git push origin <branch name>
+
+git stash
+
+git checkout <branch name>
+
+git checkout -b <branch name>
+
+git branch -D <branch name>
+
+git push -d origin <branch name>
+
+git merge <branch name>
+
+mkdir <new directory name>
+
+cd <directory name>
+
+touch <file name>
+
+rm -rf <directory name>
+
+pwd
+
+ls
+
+ls -al
